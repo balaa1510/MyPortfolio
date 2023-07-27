@@ -1,0 +1,10 @@
+.git{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem;
+}
+.git .link{
+    padding: 1rem;
+}
